@@ -11,8 +11,9 @@ This project was developed with the following technologies:
 
 Clone the project and access its folder.
 
-`$ git clone https://github.com/mvnulman/just-ask.git
-$ cd just-ask`
+`git clone https://github.com/mvnulman/just-ask.git`
+
+`cd just-ask`
 
 # Iniciate project:
 `yarn start`
