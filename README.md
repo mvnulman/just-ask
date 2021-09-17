@@ -16,6 +16,8 @@ Clone the project and access its folder.
 `cd just-ask`
 
 # Iniciate project:
+`yarn`
+
 `yarn start`
 
 The app will be available in your browser at [http://localhost:3000](http://localhost:3000/).
