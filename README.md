@@ -5,7 +5,7 @@ This project was developed with the following technologies:
 - [React](https://reactjs.org/)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- SASS
+- CSS / SASS
 
 ## **🚀 How to Execute the Project**
 
@@ -14,13 +14,8 @@ Clone the project and access its folder.
 `$ git clone https://github.com/mvnulman/just-ask.git
 $ cd just-ask`
 
-To iniciate, follow the steps below:
-
-`# Install the dependencies:
-$ yarn
-
 # Iniciate project:
-$ yarn start`
+`yarn start`
 
 The app will be available in your browser at [http://localhost:3000](http://localhost:3000/).
 
